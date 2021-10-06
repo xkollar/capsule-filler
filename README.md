@@ -11,7 +11,7 @@ quantities (those 100+ hole fillers 🤦) and with precission.
 (Photo is of slightly older version. Printed with 100µm FDM,
 material ASA, 20% infill, by [these guys](https://www.sgd3d.co.uk/).)
 
-Code is parametric, so one should be able to easily adapt to ones needs.
+Code is parametric so one should be able to easily adapt to one's needs.
 
 ## Ideas/principles
 
